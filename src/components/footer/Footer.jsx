@@ -50,7 +50,7 @@ const Footer = () => {
             <FaGithub />
           </a>
           <a
-            href="https://https://www.linkedin.com/in/aniket-bhabat-045176288/"
+            href="//https://www.linkedin.com/in/aniket-bhabat-045176288/"
             target="_blank"
             className="icon"
           >
